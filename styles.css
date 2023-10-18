@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.heading{
+	text-align:center;
+}
+.playlist{
+	list-style-type:none;
+	text-decoration-line:none;
+}
