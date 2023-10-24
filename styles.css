@@ -1,6 +1,13 @@
 /*  your css code here. If applicable */
+:root{
+	background-color:lightgray;
+}
 .heading{
 	text-align:center;
+}
+.container{
+	background-color:white;
+	
 }
 .playlist{
 	list-style-type:none;
